@@ -1,2 +1,1 @@
-# Weather-App
-Skywatcher — Weather Application
+Skywatcher is a real-time weather dashboard built with vanilla HTML, CSS, and JavaScript. It consumes three OpenWeatherMap API endpoints simultaneously — current weather, 5-day forecast, and air pollution data — using Promise.all for efficient parallel fetching. Key features include city search, GPS-based geolocation, a unit toggle between °C and °F, an animated SVG sun arc that tracks actual daylight progress, color-coded AQI with individual pollutant readings, and a fully responsive dark UI with smooth animations.
